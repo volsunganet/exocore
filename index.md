@@ -5,7 +5,7 @@ title: Home
 ## CHAPTER I. 
 ### Of Sigi, the Son of Odin.
 
-Here begins the tale, and tells of a man who was named Sigi, and called of
+Here begins the tale, and tells of a man who was named Sigi, and called of 
 men the son of Odin; another man withal is told of in the tale, hight
 Skadi, a great man and mighty of his hands; yet was Sigi the mightier and
 the higher of kin, according to the speech of men of that time. Now Skadi
