@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Exocore
-description: A navigable, organised hypertext personal knowledge base
-url: https://exocore.netlify.app
-repository: remiliacorp/exocore
+title: The Vulsunga Saga
+description: hypersaga
+url: https://vulsunga.net
+repository: volsunganet/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
