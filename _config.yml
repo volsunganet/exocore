@@ -2,10 +2,10 @@
 # --- USER CONFIGURATION --- #
 ##############################
 
-title: Saga of the Volsungs
-description: explore the Volsung Saga in hypertext form
-url: https://volsunga.netlify.app
-repository: volsunganet/exocore
+title: Exocore
+description: A navigable, organised hypertext personal knowledge base
+url: https://exocore.netlify.app
+repository: remiliacorp/exocore
 
 ##############################################
 # --- ANALYTICS CONFIGURATION (OPTIONAL) --- #
